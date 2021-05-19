@@ -2,3 +2,16 @@
 div{
     border: 1px solid;
 }
+
+.justify-content-end{
+    background-color: lemonchiffon;
+}
+
+.justify-content-start{
+    background-color: lightblue;
+}
+
+
+.justify-content-between{
+    background-color: lightgray;
+}
